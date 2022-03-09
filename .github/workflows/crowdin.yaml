@@ -1,6 +1,6 @@
 name: Crowdin Upload
 
-"api_token": "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"
+
 
 # on any push to main, we upload the translations to be translated
 on:
