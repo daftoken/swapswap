@@ -1,3 +1,13 @@
+"project_id_env": "CROWDIN_PROJECT_ID"      # Low priority
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"   # Low priority
+"base_path_env": "CROWDIN_BASE_PATH"        # Low priority
+"base_url_env": "CROWDIN_BASE_PATH"         # Low priority
+"project_id": "projectId"                   # High priority
+"api_token": "personal-access-token"        # High priority
+"base_path": "/project-base-path"           # High priority
+"base_url": "https://api.crowdin.com"           # High priority
+
+
 "project_id_env": "CROWDIN_PROJECT_ID"
 "api_token_env": "CROWDIN_PERSONAL_TOKEN"
 "base_path_env": "CROWDIN_BASE_PATH"
@@ -5,7 +15,7 @@
 
 
 "project_id": "projectId"                     #open project and go to Tools > API 
-"api_token": ""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""          #open profile settings and go to API > New Token > create Token
+"api_token": "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"          #open profile settings and go to API > New Token > create Token
 "base_path": "/project-base-path"
 "base_url": "https://api.crowdin.com"
 "preserve_hierarchy": true
